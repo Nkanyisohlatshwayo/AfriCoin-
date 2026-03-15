@@ -1,7 +1,3 @@
-Your repository has been created successfully. You can see it at github.com/Nkanyisohlatshwayo/AfriCoin-.
-Now tap "creating a new file" (the blue link near the bottom of the screen). This will open GitHub's file editor where you will create your first file.
-First file — package.json
-Type package.json as the filename and paste the following as the content:
 {
   "name": "africoin",
   "version": "1.0.0",
